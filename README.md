@@ -4,5 +4,5 @@
 The main shared page for freeCodeCamp Hong Kong.
 Steps & guidelines for the Gitter Community:
 1. Click on the SIGN IN TO START TALKING button
-  1. [Alt text](FreeCodeCampHongKong/Screenshot 2017-08-02 00.01.46.png?raw=true "Optional Title")
+  1. ![Alt text](https://raw.github.com/FreeCodeCampHongKong/FreeCodeCampHongKong/LandingPage.png?raw=true "Optional Title")
 1. 

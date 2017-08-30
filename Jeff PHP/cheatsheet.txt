@@ -22,7 +22,7 @@ Function: Function is a named procedure that performs a distinct service
 
 To write a function in PHP as following: -
 function thisIsAFunction() {
-	// write any function here
+  // write any function here
 } 
 
 Comment: in case we have forgot what we have did in your PHP script, comment is a layman sentence that make you and other understand what you are doing in a particular script. 
